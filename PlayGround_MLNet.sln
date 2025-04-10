@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGround_MLNet", "PlayGround_MLNet.csproj", "{F4226FC7-23A0-41B1-A17E-3BF49F07CD61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredictiveModel_WebApi1", "..\PredictiveModel_WebApi1\PredictiveModel_WebApi1.csproj", "{A933A2B7-FAF0-C422-BFDD-B31180547322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4226FC7-23A0-41B1-A17E-3BF49F07CD61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4226FC7-23A0-41B1-A17E-3BF49F07CD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4226FC7-23A0-41B1-A17E-3BF49F07CD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4226FC7-23A0-41B1-A17E-3BF49F07CD61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A933A2B7-FAF0-C422-BFDD-B31180547322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A933A2B7-FAF0-C422-BFDD-B31180547322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A933A2B7-FAF0-C422-BFDD-B31180547322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A933A2B7-FAF0-C422-BFDD-B31180547322}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D705EFF0-8511-4076-886D-D957130B8EA5}
+	EndGlobalSection
+EndGlobal
